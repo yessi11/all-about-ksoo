@@ -1,0 +1,16 @@
+h1 {
+  color: brown;
+  text-align: center;
+  line-height: 1cm;
+}
+
+body {
+  font-style: oblique;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+  text-align: center;
+}
+
